@@ -50,9 +50,17 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 </p>
 
+
+---
+
+### ⚡ Github Trophies :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sprhackz&theme=onedark)](https://github.com/sprhackz/github-profile-trophy)
+
 ---
 
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SPRHackz&theme=buefy-dark&hide_border=true&border_radius=10.2)](https://git.io/streak-stats)
+
 
 ---
