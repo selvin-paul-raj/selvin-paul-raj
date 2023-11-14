@@ -60,8 +60,7 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SPRHackz&theme=buefy-dark&hide_border=true&border_radius=10.2)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=sprhackz&theme=transparent&hide_border=true&border_radius=14.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 ### ⚓ &nbsp; My Achievements :
