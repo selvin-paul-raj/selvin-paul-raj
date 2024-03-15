@@ -34,7 +34,7 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="Threejs" alt="Threejs" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"  title="Tailwindcss" alt="Tailwindcss" width="40" height="40"/>&nbsp; -->
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="Php" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -65,5 +65,18 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ---
 ### ⚓ &nbsp; My Achievements :
 [![An image of @sprhackz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@sprhackz)
+
+---
+---
+### 🌟Star History
+
+
+<a href="https://star-history.com/#sprhackz/sprhackz&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date" />
+  </picture>
+</a>
 
 ---
