@@ -58,11 +58,15 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 [![trophy](https://github-profile-trophy.vercel.app/?username=sprhackz&theme=onedark)](https://github.com/sprhackz/github-profile-trophy)
 
 ---
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sprhackz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+
+---
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=sprhackz&theme=transparent&hide_border=true&border_radius=14.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
----
+
 ---
 ### ♨Programming Languages :
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprhackz&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
@@ -71,7 +75,6 @@ I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 ### ⚓ &nbsp; My Achievements :
 [![An image of @sprhackz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@sprhackz)
 
----
 ---
 ### 🌟Star History :
 
