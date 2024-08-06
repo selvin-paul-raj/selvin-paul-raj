@@ -10,9 +10,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am an IT Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 Third-year Bachelor of Technology student in Information Technology at DMI College of Engineering, Chennai.
+- 🔭 Final-Year Bachelor of Technology student in Information Technology at DMI College of Engineering, Chennai.
 - ⚡ Proficient in full stack web development, possessing skills in both front-end and back-end technologies.
 - 🌱 Strong problem-solving aptitude, capable of making well-informed decisions to address complex challenges.
 - 🔥  Demonstrated programming expertise, translating innovative ideas into functional, user-centric applications.
