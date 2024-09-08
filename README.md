@@ -2,7 +2,7 @@
 <p align="center">
 <a href="https://in.linkedin.com/in/selvin-paulraj-k-472b31267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=SPRHackz&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sprhackz&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
@@ -55,35 +55,35 @@ I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 ### ⚡ Github Trophies :
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sprhackz&theme=onedark)](https://github.com/sprhackz/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=selvin-paul-raj&theme=onedark)](https://github.com/selvin-paul-raj/github-profile-trophy)
 
 ---
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sprhackz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=selvin-paul-raj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ---
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=sprhackz&theme=transparent&hide_border=true&border_radius=14.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=selvin-paul-raj&theme=transparent&hide_border=true&border_radius=14.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 ---
 ### ♨Programming Languages :
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprhackz&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvin-paul-raj&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ---
 ### ⚓ &nbsp; My Achievements :
-[![An image of @sprhackz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@sprhackz)
+[![An image of @selvin-paul-raj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@selvin-paul-raj)
 
 ---
 ### 🌟Star History :
 
 
-<a href="https://star-history.com/#sprhackz/sprhackz&Date">
+<a href="https://star-history.com/#selvin-paul-raj/selvin-paul-raj&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sprhackz/sprhackz&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=selvin-paul-raj/selvin-paul-raj&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=selvin-paul-raj/selvin-paul-raj&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=selvin-paul-raj/selvin-paul-raj&type=Date" />
   </picture>
 </a>
 
