@@ -17,6 +17,7 @@ I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 - 🌱 Strong problem-solving aptitude, capable of making well-informed decisions to address complex challenges.
 - 🔥  Demonstrated programming expertise, translating innovative ideas into functional, user-centric applications.
 - ✈️ Enthusiastic about technological advancements, driven by a passion for contributing to the IT landscape's evolution.
+- 😅 Fun fact: Equal is Not Always Equal in Javascript.🤣
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/selvin-paulraj-k-472b31267)
 
 ---
@@ -68,12 +69,12 @@ I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 
 ---
-### ♨Programming Languages :
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvin-paul-raj&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+### ♨ Programming Languages :
+<p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvin-paul-raj&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ---
-### ⚓ &nbsp; My Achievements :
-[![An image of @selvin-paul-raj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sprhackz)](https://holopin.io/@selvin-paul-raj)
+### ❄️ StarDev Ranking
+[![Check out selvin-paul-raj's profile on stardev.io](https://stardev.io/developers/selvin-paul-raj/badge/languages/locality.svg)](https://stardev.io/developers/selvin-paul-raj)
 
 ---
 ### 🌟Star History :
