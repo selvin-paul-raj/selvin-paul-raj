@@ -71,9 +71,14 @@ I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 ### ♨ Programming Languages :
 <p ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selvin-paul-raj&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<hr/>
+
+### 🦀 Github Stats :
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selvin-paul-raj&show_icons=true&locale=en&theme=tokyonight" alt="selvin paul raj K" /></p>
 
 ---
-### ❄️ StarDev Ranking
+### ❄️ StarDev Ranking :
 [![Check out selvin-paul-raj's profile on stardev.io](https://stardev.io/developers/selvin-paul-raj/badge/languages/locality.svg)](https://stardev.io/developers/selvin-paul-raj)
 
 ---
