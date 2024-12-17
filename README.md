@@ -96,3 +96,15 @@ I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 ## 🖖Contribution Graph :
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=selvin-paul-raj&bg_color=000000&color=ffffff&line=007bff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+___
+
+## My Git's pet
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/selvin-paul-raj"
+    width="600"
+    height="120"
+  />
+</a>
+  
