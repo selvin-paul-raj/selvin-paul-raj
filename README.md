@@ -10,15 +10,17 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I'm an Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 Final-Year Bachelor of Technology student in Information Technology at DMI College of Engineering, Chennai.
-- ⚡ Proficient in full stack web development, possessing skills in both front-end and back-end technologies.
-- 🌱 Strong problem-solving aptitude, capable of making well-informed decisions to address complex challenges.
-- 🔥  Demonstrated programming expertise, translating innovative ideas into functional, user-centric applications.
-- ✈️ Enthusiastic about technological advancements, driven by a passion for contributing to the IT landscape's evolution.
-- 😅 Fun fact: Equal is Not Always Equal in Javascript.🤣
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/selvin-paulraj-k-472b31267)
+- 🎓 Bachelor of Technology graduate in Information Technology from DMI College of Engineering, Chennai.
+- 🔭 Passionate Software Engineer focused on building robust, scalable full stack applications.
+- ⚡ Proficient in full stack web development — skilled in both front-end and back-end technologies.
+- 🌱 Strong problem-solving aptitude, capable of crafting efficient and scalable solutions to complex challenges.
+- 🔥 Demonstrated programming expertise, turning creative ideas into clean, user-centric applications.
+- ✈️ Constantly learning and evolving with the latest advancements in the tech world.
+- 🌐 Portfolio: [selvinpaulraj.vercel.app](https://selvinpaulraj.vercel.app)
+- 😅 Fun fact: Equal is Not Always Equal in JavaScript. 🤣
+- 📫 Reach me at: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/selvinpaulraj)
 
 ---
 
