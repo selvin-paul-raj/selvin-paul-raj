@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <p align="center">
-<a href="https://in.linkedin.com/in/selvin-paulraj-k-472b31267"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="https://in.linkedin.com/in/selvinpaulrajk"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sprhackz&style=flat-square&color=blue" alt=""></p>
 
@@ -18,8 +18,8 @@ I'm a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - 🌱 Strong problem-solving aptitude, capable of crafting efficient and scalable solutions to complex challenges.
 - 🔥 Demonstrated programming expertise, turning creative ideas into clean, user-centric applications.
 - ✈️ Constantly learning and evolving with the latest advancements in the tech world.
-- 🌐 Portfolio: [selvinpaulraj.vercel.app](https://selvinpaulraj.vercel.app)
 - 😅 Fun fact: Equal is Not Always Equal in JavaScript. 🤣
+- 🌐 Portfolio: [selvinpaulraj.vercel.app](https://selvinpaulraj.vercel.app)
 - 📫 Reach me at: &nbsp; [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/selvinpaulraj)
 
 ---
