@@ -1,0 +1,86 @@
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.5" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .circuit-line {
+        stroke: #00f2ff;
+        stroke-width: 2;
+        stroke-dasharray: 10, 10;
+        animation: dash 20s linear infinite;
+        opacity: 0.5;
+      }
+      @keyframes dash {
+        to {
+          stroke-dashoffset: 1000;
+        }
+      }
+      .node {
+        fill: #00f2ff;
+        animation: pulse 2s infinite;
+      }
+      @keyframes pulse {
+        0% { r: 3; opacity: 0.5; }
+        50% { r: 5; opacity: 1; }
+        100% { r: 3; opacity: 0.5; }
+      }
+      .text-title {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 40px;
+        font-weight: bold;
+        fill: #ffffff;
+        text-anchor: middle;
+        filter: url(#glow);
+      }
+      .text-subtitle {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        fill: #a0a0a0;
+        text-anchor: middle;
+      }
+      .icon {
+        fill: #ffffff;
+        opacity: 0.2;
+        animation: float 6s ease-in-out infinite;
+      }
+      @keyframes float {
+        0% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+        100% { transform: translateY(0px); }
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#grad1)" rx="15" />
+
+  <!-- Circuit Lines -->
+  <path class="circuit-line" d="M50,100 Q200,50 400,100 T750,100" fill="none" />
+  <path class="circuit-line" d="M50,150 Q200,200 400,150 T750,50" fill="none" style="animation-duration: 15s; stroke: #bc13fe;" />
+
+  <!-- Nodes -->
+  <circle cx="50" cy="100" r="4" class="node" />
+  <circle cx="400" cy="100" r="4" class="node" />
+  <circle cx="750" cy="100" r="4" class="node" />
+  <circle cx="200" cy="75" r="4" class="node" style="animation-delay: 0.5s" />
+  <circle cx="600" cy="125" r="4" class="node" style="animation-delay: 1s" />
+
+  <!-- Abstract Icons (Simple Shapes) -->
+  <rect x="100" y="40" width="40" height="40" rx="5" class="icon" />
+  <circle cx="700" cy="160" r="25" class="icon" style="animation-delay: 2s" />
+  <polygon points="600,40 625,80 575,80" class="icon" style="animation-delay: 1.5s" />
+
+  <!-- Text -->
+  <text x="50%" y="45%" class="text-title">TECHNICAL ARSENAL</text>
+  <text x="50%" y="65%" class="text-subtitle">AI AGENTS • RAG • FULL STACK • AUTOMATION</text>
+</svg>
