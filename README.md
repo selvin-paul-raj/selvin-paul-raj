@@ -732,18 +732,6 @@ class SelvinPaulRaj:
 
 ---
 
-## 🌐 GitHub Activity Visualization
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selvin-paul-raj/selvin-paul-raj/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selvin-paul-raj/selvin-paul-raj/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/selvin-paul-raj/selvin-paul-raj/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
----
-
 ## 🐾 My Git Pets  
 <p align="center">
   <img src="https://render.gitanimals.org/lines/selvin-paul-raj" width="600"/>
