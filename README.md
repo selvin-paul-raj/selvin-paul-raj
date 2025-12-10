@@ -63,7 +63,7 @@ I'm an **AI Engineer & Associate Data Analyst** at **Zinnov (Draup)**, specializ
 - 💼 **Agentic Systems** — Multi-agent workflows and intelligent business automation
 
 ### Background
-- 🎓 **M.E. Computer Science & Engineering** (Specialization: AI & Agentic Systems) — Kings Engineering College (Aug 2025 - Present)
+- 🎓 **M.E. Computer Science & Engineering** — Kings Engineering College (Aug 2025 - Present)
 - 🎓 **B.Tech Information Technology** — DMI College of Engineering, Chennai (CGPA: 8.4) | May 2021 - May 2025
 - 💼 **Associate Data Analyst** at Zinnov (Draup) (Sep 2025 - Present)
 - 🚀 **Crafter** at GenXRverse (Mar 2024 - Present) — AI-driven automation & agentic systems
@@ -260,7 +260,7 @@ gitGraph
     branch current
     checkout current
     commit id:"Crafter - GenXRverse (2024-03)"
-    commit id:"M.E CSE (AI Specialization) (2025-11)"
+    commit id:"M.E CSE  (2025-11)"
     commit id:"Associate Data Analyst - Zinnov (2025-11)"
 
     checkout main
@@ -575,10 +575,10 @@ class SelvinPaulRaj:
         self.current_roles = [
             "Associate Data Analyst @ Zinnov (Draup)",
             "Crafter @ GenXRverse",
-            "M.E. CSE Student (AI Specialization)"
+            "M.E. CSE Student"
         ]
         self.education = {
-            "masters": "M.E. CSE (AI & Agentic Systems) - Kings Engineering College (2025-Present)",
+            "masters": "M.E. CSE  - Kings Engineering College (2025-Present)",
             "bachelors": "B.Tech IT - DMI College of Engineering (CGPA: 8.4)"
         }
         
@@ -684,7 +684,7 @@ class SelvinPaulRaj:
 - 📦 **Developer Utilities** — Content moderation, web scraping APIs
 
 ### 🔬 Research & Learning
-- 🎓 Pursuing **M.E. in AI & Agentic Systems**
+- 🎓 Pursuing **M.E. in CSE**
 - 🧠 Exploring distributed AI agent architectures
 - 🔍 Researching RAG optimization techniques
 - ✍️ Contributing to AI/ML community knowledge
