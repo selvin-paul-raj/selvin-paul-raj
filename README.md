@@ -49,7 +49,11 @@
 <!--        ABOUT SECTION       -->
 <!-- ========================== -->
 
-## 🧠 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  
+## 🧠 About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 I'm an **AI Engineer & Associate Data Analyst** at **Zinnov (Draup)**, specializing in **autonomous AI agents, RAG systems, and intelligent automation**. With a strong foundation in full-stack development, I'm building AI-powered solutions that solve real-world enterprise challenges.
 
@@ -69,6 +73,37 @@ I'm an **AI Engineer & Associate Data Analyst** at **Zinnov (Draup)**, specializ
 - 🚀 **Crafter** at GenXRverse (Mar 2024 - Present) — AI-driven automation & agentic systems
 - 🌏 Based in India | Hybrid Work Environment
 - 📱 **Contact:** [+91 9176299049](tel:9176299049) | [WhatsApp](https://wa.me/+919176299049)
+
+</td>
+<td width="35%" valign="top" align="center">
+
+<a href="https://gitfut.com/selvin-paul-raj">
+  <img src="https://gitfut.com/selvin-paul-raj.png" width="260" alt="My GitFut card" />
+</a>
+
+<details>
+<summary><sub>What is this card?</sub></summary>
+<br>
+
+Six signals pulled from GitHub's GraphQL API, mapped to football stats — no surveys, no self-reporting, just commit history.
+
+| Stat | Scouted from |
+|:---|:---|
+| PAC — Pace | Commits in the last year |
+| SHO — Shooting | Stars earned across repos |
+| PAS — Passing | Pull requests + followers |
+| DRI — Dribbling | Language diversity |
+| DEF — Defending | Reviews + issues |
+| PHY — Physical | Lifetime contributions |
+
+Overall rating is the headline stat. Raw stats cap at 88 — the 90s are a legacy gate earned through years and influence, so one strong year won't crown you an Icon. Position and archetype are inferred from stat shape: a shooting spike scouts a poacher, a defending-and-passing lean scouts a deep-lying playmaker.
+
+</sub>
+</details>
+
+</td>
+</tr>
+</table>
 
 ---
 
