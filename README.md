@@ -849,7 +849,14 @@ class SelvinPaulRaj:
 
 ## ⭐ Star History  
 <p align="center">
-  <img src="https://api.star-history.com/svg?repos=selvin-paul-raj/selvin-paul-raj&type=Date&theme=dark" />
+
+<a href="https://www.star-history.com/?repos=selvin-paul-raj%2Fselvin-paul-raj&type=timeline&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=selvin-paul-raj/selvin-paul-raj&type=timeline&theme=dark&logscale&legend=bottom-right&sealed_token=y6E3RO5Ave67LVCZQ4X-PaUTKZ8mRSqeY_Gwzzl2NS0ofMcCUD0qZ9-vZcOuFMkuXjbmCGkbmfPOyfjfzrgD0CWmbYPft-DGvhVlytxvAj5hSuYOP7pCcw" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=selvin-paul-raj/selvin-paul-raj&type=timeline&logscale&legend=bottom-right&sealed_token=y6E3RO5Ave67LVCZQ4X-PaUTKZ8mRSqeY_Gwzzl2NS0ofMcCUD0qZ9-vZcOuFMkuXjbmCGkbmfPOyfjfzrgD0CWmbYPft-DGvhVlytxvAj5hSuYOP7pCcw" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=selvin-paul-raj/selvin-paul-raj&type=timeline&logscale&legend=bottom-right&sealed_token=y6E3RO5Ave67LVCZQ4X-PaUTKZ8mRSqeY_Gwzzl2NS0ofMcCUD0qZ9-vZcOuFMkuXjbmCGkbmfPOyfjfzrgD0CWmbYPft-DGvhVlytxvAj5hSuYOP7pCcw" />
+ </picture>
+</a>
 </p>
 
 ---
