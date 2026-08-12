@@ -1,0 +1,40 @@
+name: Daily Repository Activity
+
+on:
+  schedule:
+    - cron: "30 9 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Configure Git
+        run: |
+          git config user.name "selvin-paul-raj"
+          git config user.email "sprhackz003@gmail.com"
+
+      - name: Update activity
+        run: |
+          mkdir -p .github
+          echo "Daily maintenance: $(date -u '+%Y-%m-%d %H:%M:%S UTC')" \
+            > .github/daily-activity.txt
+
+      - name: Commit
+        run: |
+          git add .github/daily-activity.txt
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "chore: daily maintenance"
+          git push
