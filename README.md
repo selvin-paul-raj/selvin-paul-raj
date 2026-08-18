@@ -578,7 +578,8 @@ gitGraph
   
 ### Contribution Stats
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=selvin-paul-raj&theme=github-dark-blue&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=selvin-paul-raj&theme=dark)](https://git.io/streak-stats)
+
 
 ### Performance Metrics
 
