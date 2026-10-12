@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Section divider">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="40" y1="14" x2="1160" y2="14"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset=".2" stop-color="#22d3ee" stop-opacity=".55"/><stop offset=".5" stop-color="#a78bfa" stop-opacity=".7"/><stop offset=".8" stop-color="#34d399" stop-opacity=".55"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></linearGradient>
+<radialGradient id="glow"><stop offset="0" stop-color="#22d3ee" stop-opacity=".9"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient></defs>
+<path id="ln" d="M40 14 H1160" stroke="url(#g)" stroke-width="1.5" fill="none"/>
+<g fill="#0f172a" stroke="#a78bfa" stroke-width="1.5"><circle cx="300" cy="14" r="4"/><circle cx="600" cy="14" r="5"/><circle cx="900" cy="14" r="4"/></g>
+<circle r="14" fill="url(#glow)"><animateMotion dur="6s" repeatCount="indefinite" path="M40 14 H1160"/></circle>
+<circle r="3" fill="#22d3ee"><animateMotion dur="6s" repeatCount="indefinite" path="M40 14 H1160"/></circle>
+</svg>
