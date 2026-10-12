@@ -1,0 +1,82 @@
+name: Profile art (snake, Pac-Man, 3D)
+
+# Builds the contribution games and the 3D contribution city, then publishes them
+# to the `output` branch. The README reads them from
+# raw.githubusercontent.com/selvin-paul-raj/selvin-paul-raj/output/...
+# Every generator is allowed to fail on its own: the last good file is kept.
+on:
+  schedule:
+    - cron: "17 0 * * *" # daily, 05:47 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [".github/workflows/profile-art.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: output-branch
+  cancel-in-progress: false
+
+jobs:
+  art:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Keep the files already on the output branch
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        continue-on-error: true
+        with:
+          ref: output
+          path: prev
+
+      - name: Prepare dist
+        run: |
+          mkdir -p dist
+          if [ -d prev ]; then
+            cp prev/*.svg dist/ 2>/dev/null || true
+            cp -r prev/profile-3d-contrib dist/ 2>/dev/null || true
+          fi
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-light.svg?palette=github&color_snake=#6d28d9
+            dist/snake-dark.svg?palette=github-dark&color_snake=#22d3ee
+
+      - name: Pac-Man contribution game
+        uses: abozanona/pacman-contribution-graph@d258e3fb01511c1ff4fe6418408ede37b2ad4935 # v5.0.0
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: pacman
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Collect 3D output
+        run: |
+          if [ -d profile-3d-contrib ]; then
+            mkdir -p dist/profile-3d-contrib
+            cp profile-3d-contrib/*.svg dist/profile-3d-contrib/
+          fi
+          ls -la dist dist/profile-3d-contrib 2>/dev/null || true
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          jekyll: false
+          keep_history: false
+          commit_message: "chore: update profile art"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

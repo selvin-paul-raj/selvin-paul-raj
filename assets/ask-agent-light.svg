@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="330" viewBox="0 0 1000 330" role="img" aria-labelledby="t d"><title id="t">Ask my agent</title><desc id="d">Animated chat. A visitor asks: Can Selvin build AI agents for my team? The agent replies: Yes. He ships LangGraph and MCP agents with RAG, tools, memory and evals, and he's open to AI, LLM and agentic engineer roles. Then a button: open portfolio, selvinpaulraj.vercel.app.</desc>
+<defs><clipPath id="a1"><rect x="56" y="162" height="26" width="0"><animate attributeName="width" values="0.0;0.0;8.4;16.9;25.3;33.7;42.1;50.6;59.0;67.4;75.9;84.3;92.7;101.1;109.6;118.0;126.4;134.8;143.3;151.7;160.1;168.6;177.0;185.4;193.8;202.3;210.7;219.1;227.6;236.0;244.4;252.8;261.3;269.7;278.1;286.6;295.0;303.4;311.8;320.3;328.7;337.1;345.5;354.0;362.4;370.8;379.3;387.7;396.1;404.5;413.0;421.4;429.8;438.3;446.7;455.1;463.5;472.0;480.4;488.8;497.3;507.7;0.0;0.0" keyTimes="0.0000;0.2000;0.2019;0.2037;0.2056;0.2075;0.2093;0.2112;0.2131;0.2149;0.2168;0.2187;0.2205;0.2224;0.2243;0.2261;0.2280;0.2299;0.2317;0.2336;0.2355;0.2373;0.2392;0.2411;0.2429;0.2448;0.2467;0.2485;0.2504;0.2523;0.2541;0.2560;0.2579;0.2597;0.2616;0.2635;0.2653;0.2672;0.2691;0.2709;0.2728;0.2747;0.2765;0.2784;0.2803;0.2821;0.2840;0.2859;0.2877;0.2896;0.2915;0.2933;0.2952;0.2971;0.2989;0.3008;0.3027;0.3045;0.3064;0.3083;0.3101;0.3120;0.9467;1.0000" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></rect></clipPath>
+<clipPath id="a2"><rect x="56" y="190" height="26" width="0"><animate attributeName="width" values="0.0;0.0;8.4;16.9;25.3;33.7;42.1;50.6;59.0;67.4;75.9;84.3;92.7;101.1;109.6;118.0;126.4;134.8;143.3;151.7;160.1;168.6;177.0;185.4;193.8;202.3;210.7;219.1;227.6;236.0;244.4;252.8;261.3;269.7;278.1;286.6;295.0;303.4;311.8;320.3;328.7;337.1;345.5;354.0;362.4;370.8;379.3;387.7;396.1;404.5;413.0;421.4;429.8;438.3;446.7;455.1;463.5;472.0;480.4;488.8;497.3;505.7;514.1;524.5;0.0;0.0" keyTimes="0.0000;0.3187;0.3205;0.3224;0.3243;0.3261;0.3280;0.3299;0.3317;0.3336;0.3355;0.3373;0.3392;0.3411;0.3429;0.3448;0.3467;0.3485;0.3504;0.3523;0.3541;0.3560;0.3579;0.3597;0.3616;0.3635;0.3653;0.3672;0.3691;0.3709;0.3728;0.3747;0.3765;0.3784;0.3803;0.3821;0.3840;0.3859;0.3877;0.3896;0.3915;0.3933;0.3952;0.3971;0.3989;0.4008;0.4027;0.4045;0.4064;0.4083;0.4101;0.4120;0.4139;0.4157;0.4176;0.4195;0.4213;0.4232;0.4251;0.4269;0.4288;0.4307;0.4325;0.4344;0.9467;1.0000" calcMode="discrete" dur="15.0s" repeatCount="indefinite"/></rect></clipPath>
+<linearGradient id="acc" x1="0" x2="1"><stop offset="0" stop-color="#0e7490"/><stop offset=".5" stop-color="#6d28d9"/><stop offset="1" stop-color="#be185d"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8fafc"/><stop offset="1" stop-color="#eef3fb"/></linearGradient><filter id="glow"><feOffset dx="0" dy="0"/></filter></defs>
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace} .s{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+@keyframes fadeUp{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@keyframes dash{to{stroke-dashoffset:-40}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+.in{opacity:0;animation:fadeUp .6s ease-out forwards}
+.fd{opacity:0;animation:fade .6s ease-out forwards}
+.bl{animation:blink 1s steps(1) infinite}
+.pl{animation:pulse 1.8s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.in,.fd{opacity:1}}
+
+.c{font:500 14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;white-space:pre} .h{font:700 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;fill:#0b1220;letter-spacing:1px} .hs{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;fill:#5b6b85}
+.btn{font:800 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;letter-spacing:1px}
+</style>
+<rect x="1" y="1" width="998" height="328" rx="18" fill="url(#bg)" stroke="#c8d4e8"/>
+<rect x="1" y="1" width="998" height="50" rx="18" fill="#f3f6fc"/><rect x="1" y="34" width="998" height="17" fill="#f3f6fc"/>
+<rect x="1" y="50" width="998" height="2" fill="url(#acc)"/>
+<circle cx="34" cy="26" r="12" fill="none" stroke="#0e7490" stroke-width="2" filter="url(#glow)"/><circle cx="34" cy="26" r="4" fill="#0e7490" class="pl"/>
+<text x="56" y="31" class="h">agent://selvin-paul-raj</text>
+<circle cx="268" cy="27" r="4" fill="#047857" class="pl"/><text x="278" y="31" class="hs">online · replies in plain English</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0333;0.0500;0.9467;0.9633;1.0000" dur="15.0s" repeatCount="indefinite"/>
+<rect x="553" y="76" width="407" height="40" rx="14" fill="#0e7490" fill-opacity=".14" stroke="#0e7490" stroke-opacity=".6"/>
+<text x="571" y="101" class="c" fill="#0b1220">Hey! Can Selvin build AI agents for my team?</text>
+<text x="956" y="132" text-anchor="end" class="hs">visitor</text></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.0867;0.0933;0.1933;0.2000;1.0000" dur="15.0s" repeatCount="indefinite"/>
+<rect x="40" y="150" width="88" height="40" rx="14" fill="#ffffff" stroke="#c8d4e8"/><circle cx="76" cy="171" r="4" fill="#5b6b85"><animate attributeName="cy" values="171;164;171" dur=".9s" begin="0.0s" repeatCount="indefinite"/></circle><circle cx="92" cy="171" r="4" fill="#5b6b85"><animate attributeName="cy" values="171;164;171" dur=".9s" begin="0.15s" repeatCount="indefinite"/></circle><circle cx="108" cy="171" r="4" fill="#5b6b85"><animate attributeName="cy" values="171;164;171" dur=".9s" begin="0.3s" repeatCount="indefinite"/></circle></g>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.1933;0.2000;0.9467;0.9533;1.0000" dur="15.0s" repeatCount="indefinite"/>
+<rect x="40" y="150" width="563" height="84" rx="14" fill="#ffffff" stroke="#6d28d9" stroke-opacity=".7"/>
+<text x="58" y="146" class="hs">selvin's agent</text></g>
+<text x="58" y="180" class="c" fill="#0b1220" clip-path="url(#a1)">Yes. He ships LangGraph + MCP agents with RAG, tools, memory</text>
+<text x="58" y="208" class="c" fill="#0b1220" clip-path="url(#a2)">and evals, and he’s open to AI / LLM / agentic engineer roles.</text>
+<g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0.0000;0.4933;0.5133;0.9467;0.9667;1.0000" dur="15.0s" repeatCount="indefinite"/>
+<rect x="40" y="252" width="410" height="44" rx="22" fill="url(#acc)" opacity=".95"/>
+<rect x="36" y="248" width="418" height="52" rx="26" fill="none" stroke="#0e7490" stroke-width="1.5"><animate attributeName="opacity" values=".9;0" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="245" y="279" text-anchor="middle" class="btn" fill="#ffffff">↗ OPEN PORTFOLIO · selvinpaulraj.vercel.app</text></g>
+<rect x="700" y="256" width="260" height="36" rx="18" fill="#ffffff" stroke="#c8d4e8"/>
+<text x="718" y="279" class="hs">Ask my agent…</text>
+<rect x="828" y="265" width="2" height="18" fill="#0e7490" class="bl"/>
+</svg>

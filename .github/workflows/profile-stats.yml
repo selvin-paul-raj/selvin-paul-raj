@@ -1,0 +1,44 @@
+name: Profile stats cards
+
+# Regenerates the self-hosted animated cards in assets/generated/
+# (telemetry, language mix, contribution pulse, currently building, project cards)
+# from public GitHub data + the blog and YouTube feeds. No third-party service.
+on:
+  schedule:
+    - cron: "41 1 * * *" # daily, 07:11 IST
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/build_stats.py", "scripts/svgkit.py", ".github/workflows/profile-stats.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-commits
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Build cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/build_stats.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/generated
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: refresh profile stats cards"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push
+          fi
