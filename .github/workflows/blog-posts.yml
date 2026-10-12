@@ -1,6 +1,7 @@
-name: Latest blog posts
+name: Latest blog posts and videos
 
-# Refreshes the "Latest from the blog" list in README.md from the AI with SPR RSS feed.
+# Refreshes "Latest transmissions" in README.md: the AI with SPR blog RSS feed
+# and the @aiwithspr YouTube channel feed.
 on:
   schedule:
     - cron: "23 1 * * *" # daily, 06:53 IST
@@ -10,8 +11,8 @@ permissions:
   contents: write
 
 concurrency:
-  group: blog-posts
-  cancel-in-progress: true
+  group: readme-commits
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -20,13 +21,26 @@ jobs:
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
-      - name: Pull latest posts
+      - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
         with:
           feed_list: "https://ai-with-spr.vercel.app/rss.xml"
+          comment_tag_name: "BLOG-POST-LIST"
           max_post_count: 5
           template: "- [$title]($url) <sub>· $date</sub>$newline"
           date_format: "UTC:mmm d, yyyy"
           tag_post_pre_newline: true
           enable_keepalive: false
           commit_message: "chore: refresh latest blog posts"
+
+      - name: Pull latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b # 1.9.7
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCf-gEIFJsn1M7Kn4A-WfRDw"
+          comment_tag_name: "YOUTUBE-VIDEO-LIST"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>· $date</sub>$newline"
+          date_format: "UTC:mmm d, yyyy"
+          tag_post_pre_newline: true
+          enable_keepalive: false
+          commit_message: "chore: refresh latest YouTube videos"
