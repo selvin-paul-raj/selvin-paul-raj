@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="312" viewBox="0 0 900 312" role="img" aria-labelledby="t d">
+<title id="t">Terminal intro</title>
+<desc id="d">A terminal types out: whoami, AI Engineer with about 1 year 2 months shipping agentic AI and LLM apps. Now: Associate Data Analyst, AI Automation at Zinnov (Draup), learning in public with #AIEngineerIn150Days. Stack: LangGraph, Google ADK, MCP, FastAPI, FAISS plus BM25, DeepEval. Status: open to AI, LLM and agentic engineer roles.</desc>
+<defs><clipPath id="c0"><rect x="34" y="64" height="26" width="0"><animate attributeName="width" values="0;75" begin="0.40s" dur="0.45s" fill="freeze"/></rect></clipPath><clipPath id="c2"><rect x="34" y="116" height="26" width="0"><animate attributeName="width" values="0;118" begin="1.28s" dur="0.66s" fill="freeze"/></rect></clipPath><clipPath id="c5"><rect x="34" y="194" height="26" width="0"><animate attributeName="width" values="0;101" begin="2.55s" dur="0.54s" fill="freeze"/></rect></clipPath><clipPath id="c7"><rect x="34" y="246" height="26" width="0"><animate attributeName="width" values="0;126" begin="3.52s" dur="0.72s" fill="freeze"/></rect></clipPath></defs>
+<style>
+.t{font:400 14px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;fill:#9fb0c8;white-space:pre}
+.pr{fill:#34d399;font-weight:700} .cm{fill:#e6edf3;font-weight:600}
+.o{fill:#9fb0c8} .ok{fill:#22d3ee;font-weight:600}
+.ttl{font:500 12px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono','DejaVu Sans Mono',monospace;fill:#6b7a94}
+</style>
+<rect x="1" y="1" width="898" height="310" rx="14" fill="#0d1424" stroke="#22304d"/>
+<path d="M1 15 a14 14 0 0 1 14 -14 H885 a14 14 0 0 1 14 14 V44 H1 Z" fill="#111a2e"/>
+<line x1="1" y1="44" x2="899" y2="44" stroke="#22304d"/>
+<circle cx="26" cy="23" r="6" fill="#ff5f57"/><circle cx="46" cy="23" r="6" fill="#febc2e"/><circle cx="66" cy="23" r="6" fill="#28c840"/>
+<text x="450.0" y="27" text-anchor="middle" class="ttl">selvin@ai-engineer: ~</text>
+<g clip-path="url(#c0)"><text x="34" y="82" class="t"><tspan class="pr">❯</tspan> <tspan class="cm">whoami</tspan></text></g><text x="52" y="108" class="t o" opacity="0"><set attributeName="opacity" to="1" begin="1.10s" fill="freeze"/>AI Engineer · ~1 yr 2 mo shipping agentic AI and LLM apps</text><g clip-path="url(#c2)"><text x="34" y="134" class="t"><tspan class="pr">❯</tspan> <tspan class="cm">cat now.txt</tspan></text></g><text x="52" y="160" class="t o" opacity="0"><set attributeName="opacity" to="1" begin="2.19s" fill="freeze"/>Associate Data Analyst, AI Automation @ Zinnov (Draup)</text><text x="52" y="186" class="t o" opacity="0"><set attributeName="opacity" to="1" begin="2.37s" fill="freeze"/>Learning in public: #AIEngineerIn150Days on AI with SPR</text><g clip-path="url(#c5)"><text x="34" y="212" class="t"><tspan class="pr">❯</tspan> <tspan class="cm">ls stack/</tspan></text></g><text x="52" y="238" class="t o" opacity="0"><set attributeName="opacity" to="1" begin="3.34s" fill="freeze"/>langgraph  google-adk  mcp  fastapi  faiss+bm25  deepeval</text><g clip-path="url(#c7)"><text x="34" y="264" class="t"><tspan class="pr">❯</tspan> <tspan class="cm">echo $STATUS</tspan></text></g><text x="52" y="290" class="t ok" opacity="0"><set attributeName="opacity" to="1" begin="4.49s" fill="freeze"/>open to AI / LLM / agentic engineer roles</text>
+<rect x="411" y="276" width="9" height="18" fill="#22d3ee" opacity="0"><set attributeName="opacity" to="1" begin="4.67s" fill="freeze"/><animate attributeName="fill-opacity" values="1;1;0;0" keyTimes="0;.5;.5;1" dur="1s" begin="4.67s" repeatCount="indefinite"/></rect>
+</svg>
