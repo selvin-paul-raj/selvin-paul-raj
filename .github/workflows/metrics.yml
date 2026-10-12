@@ -1,0 +1,45 @@
+name: Metrics (optional, off by default)
+
+# lowlighter/metrics needs a personal access token, so this stays OFF until you:
+#   1. create a classic PAT with the `read:user` scope (add `repo` only if you want private stats),
+#   2. save it as the repository secret METRICS_TOKEN,
+#   3. add the repository variable ENABLE_METRICS = true,
+#   4. un-comment the "Metrics" block in README.md.
+# It writes metrics.svg to the `output` branch (profile-art.yml keeps it).
+on:
+  schedule:
+    - cron: "5 2 * * *" # daily, 07:35 IST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: output-branch
+  cancel-in-progress: false
+
+jobs:
+  metrics:
+    if: ${{ vars.ENABLE_METRICS == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: output
+          filename: metrics.svg
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_charts: yes
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
