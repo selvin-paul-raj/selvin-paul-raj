@@ -167,11 +167,12 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
-- [15 LLM, RAG and AI agent interview questions (with answers)](https://ai-with-spr.vercel.app/blog/llm-rag-agents-interview-questions) <sub>· Oct 11, 2026</sub>
+- [ColGrep-Agent-2B, explained: a local model that does your coding agent&#39;s search](https://ai-with-spr.vercel.app/blog/colgrep-agent-2b-local-code-search-deep-dive) <sub>· Oct 13, 2026</sub>
+- [Day 3: Workflows vs agents: the 5 patterns that matter](https://ai-with-spr.vercel.app/blog/day-03-workflows-vs-agents-5-patterns) <sub>· Oct 12, 2026</sub>
+- [H-JEPA, explained: a world model that plans in layers](https://ai-with-spr.vercel.app/blog/h-jepa-hierarchical-world-model-deep-dive) <sub>· Oct 12, 2026</sub>
+- [15 LLM, RAG and AI agent interview questions &lpar;with answers&rpar;](https://ai-with-spr.vercel.app/blog/llm-rag-agents-interview-questions) <sub>· Oct 11, 2026</sub>
 - [Day 2: A modern Python workspace with uv](https://ai-with-spr.vercel.app/blog/day-02-modern-python-workspace-with-uv) <sub>· Oct 11, 2026</sub>
-- [Microsoft-Decision-1, explained: a model that answers with probabilities, not prose](https://ai-with-spr.vercel.app/blog/microsoft-decision-1-decision-model-deep-dive) <sub>· Oct 11, 2026</sub>
-- [Welcome to AI with SPR](https://ai-with-spr.vercel.app/blog/welcome-to-ai-with-spr) <sub>· Oct 11, 2026</sub>
-- [Day 1: The AI Engineer roadmap, the role and the 150-day map](https://ai-with-spr.vercel.app/blog/day-01-the-ai-engineer-roadmap) <sub>· Oct 9, 2026</sub>
+
 <!-- BLOG-POST-LIST:END -->
 
 </td>
