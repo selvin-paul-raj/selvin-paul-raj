@@ -181,7 +181,10 @@
 **▶️ On YouTube** · [@aiwithspr](https://www.youtube.com/@aiwithspr)
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
+- [pyproject.toml vs uv.lock: end &quot;works on my machine&quot; | Day 2/150 #shorts](https://www.youtube.com/shorts/JDMx6ReH4q0) <sub>· Oct 12, 2026</sub>
+- [H-JEPA: a world model that plans in layers #shorts](https://www.youtube.com/shorts/XViMbJwwWXw) <sub>· Oct 12, 2026</sub>
 - [Microsoft-Decision-1: a model that only decides #shorts](https://www.youtube.com/shorts/zcBLoF6hudU) <sub>· Oct 11, 2026</sub>
+
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
 </td>
