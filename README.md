@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 6: Python for AI: typing, Pydantic and async in one sheet](https://ai-with-spr.vercel.app/blog/day-06-python-for-ai-typing-pydantic-and-async-in-one-sheet) <sub>· Oct 15, 2026</sub>
 - [Day 5: One year as an AI engineer, from intern to production agents](https://ai-with-spr.vercel.app/blog/day-05-one-year-as-an-ai-engineer) <sub>· Oct 14, 2026</sub>
 - [LFM2.5-24B-A2B, explained: a 24B reasoning model with 2B active parameters for on-device agents](https://ai-with-spr.vercel.app/blog/lfm25-24b-a2b-on-device-agents-deep-dive) <sub>· Oct 14, 2026</sub>
 - [ColGrep-Agent-2B, explained: a local model that does your coding agent&#39;s search](https://ai-with-spr.vercel.app/blog/colgrep-agent-2b-local-code-search-deep-dive) <sub>· Oct 13, 2026</sub>
 - [Day 4: Build a ReAct agent from scratch in about 80 lines](https://ai-with-spr.vercel.app/blog/day-04-build-a-react-agent-from-scratch-in-about-80-lines) <sub>· Oct 13, 2026</sub>
-- [Day 3: Workflows vs agents: the 5 patterns that matter](https://ai-with-spr.vercel.app/blog/day-03-workflows-vs-agents-5-patterns) <sub>· Oct 12, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
