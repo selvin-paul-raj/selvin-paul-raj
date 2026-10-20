@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 10: Vectors and cosine similarity in NumPy](https://ai-with-spr.vercel.app/blog/day-10-vectors-and-cosine-similarity-in-numpy) <sub>· Oct 19, 2026</sub>
+- [Tencent Hy-Memory, explained: a small open model that writes your agent&#39;s memory](https://ai-with-spr.vercel.app/blog/tencent-hy-memory-deep-dive) <sub>· Oct 19, 2026</sub>
 - [Day 9: Most agents should be workflows](https://ai-with-spr.vercel.app/blog/day-09-most-agents-should-be-workflows) <sub>· Oct 18, 2026</sub>
 - [Day 8: A safe natural-language SQL agent in LangGraph](https://ai-with-spr.vercel.app/blog/day-08-a-safe-natural-language-sql-agent-in-langgraph) <sub>· Oct 17, 2026</sub>
 - [Day 7: LangGraph in production: state, reducers, checkpointers](https://ai-with-spr.vercel.app/blog/day-07-langgraph-in-production-state-reducers-checkpointers) <sub>· Oct 16, 2026</sub>
-- [Day 6: Python for AI: typing, Pydantic and async in one sheet](https://ai-with-spr.vercel.app/blog/day-06-python-for-ai-typing-pydantic-and-async-in-one-sheet) <sub>· Oct 15, 2026</sub>
-- [Day 5: One year as an AI engineer, from intern to production agents](https://ai-with-spr.vercel.app/blog/day-05-one-year-as-an-ai-engineer) <sub>· Oct 14, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
