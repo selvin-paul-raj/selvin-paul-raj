@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
+- [DeepSeek DeepInfer, explained: the engine behind its API is now open source](https://ai-with-spr.vercel.app/blog/deepseek-deepinfer-deep-dive) <sub>· Oct 21, 2026</sub>
 - [Day 11: Multi-agent patterns, supervisor vs router vs swarm](https://ai-with-spr.vercel.app/blog/day-11-multi-agent-patterns-supervisor-router-swarm) <sub>· Oct 20, 2026</sub>
 - [Day 10: Vectors and cosine similarity in NumPy](https://ai-with-spr.vercel.app/blog/day-10-vectors-and-cosine-similarity-in-numpy) <sub>· Oct 19, 2026</sub>
 - [Tencent Hy-Memory, explained: a small open model that writes your agent&#39;s memory](https://ai-with-spr.vercel.app/blog/tencent-hy-memory-deep-dive) <sub>· Oct 19, 2026</sub>
 - [Day 9: Most agents should be workflows](https://ai-with-spr.vercel.app/blog/day-09-most-agents-should-be-workflows) <sub>· Oct 18, 2026</sub>
-- [Day 8: A safe natural-language SQL agent in LangGraph](https://ai-with-spr.vercel.app/blog/day-08-a-safe-natural-language-sql-agent-in-langgraph) <sub>· Oct 17, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
