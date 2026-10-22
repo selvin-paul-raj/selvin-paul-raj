@@ -181,9 +181,11 @@
 **▶️ On YouTube** · [@aiwithspr](https://www.youtube.com/@aiwithspr)
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
-- [pyproject.toml vs uv.lock: end &quot;works on my machine&quot; | Day 2/150 #shorts](https://www.youtube.com/shorts/JDMx6ReH4q0) <sub>· Oct 12, 2026</sub>
-- [H-JEPA: a world model that plans in layers #shorts](https://www.youtube.com/shorts/XViMbJwwWXw) <sub>· Oct 12, 2026</sub>
-- [Microsoft-Decision-1: a model that only decides #shorts](https://www.youtube.com/shorts/zcBLoF6hudU) <sub>· Oct 11, 2026</sub>
+- [4 new MCP servers worth a look #shorts](https://www.youtube.com/shorts/XtwcFVTao2Y) <sub>· Oct 21, 2026</sub>
+- [Free 3B-active memory model for agents #shorts](https://www.youtube.com/shorts/5Go1BU4Y6Hs) <sub>· Oct 19, 2026</sub>
+- [Day 8/150: A safe SQL agent #shorts](https://www.youtube.com/shorts/iMC676popK4) <sub>· Oct 18, 2026</sub>
+- [Is a $0.20 coding agent good enough? #shorts](https://www.youtube.com/shorts/3vsr12mwPc0) <sub>· Oct 18, 2026</sub>
+- [Day 7/150: Agents that remember #shorts](https://www.youtube.com/shorts/UZihRRHX3wc) <sub>· Oct 17, 2026</sub>
 
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
