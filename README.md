@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 15: Tool calling done right, schemas, validation and retries](https://ai-with-spr.vercel.app/blog/day-15-tool-calling-done-right-schemas-validation-retries) <sub>· Oct 24, 2026</sub>
 - [Day 14: SQL for AI engineers, windows, CTEs and DuckDB on one page](https://ai-with-spr.vercel.app/blog/day-14-sql-for-ai-engineers-windows-ctes-and-duckdb) <sub>· Oct 23, 2026</sub>
 - [LiteLLM 1.107.0, explained: how a leaked token in gateway logs became a poisoned release](https://ai-with-spr.vercel.app/blog/litellm-1-107-0-supply-chain-attack-deep-dive) <sub>· Oct 23, 2026</sub>
 - [Day 13: From hours to under a minute, what a plain-English-to-report pipeline really needs](https://ai-with-spr.vercel.app/blog/day-13-hours-to-under-a-minute-text-to-sql-agent-pipeline) <sub>· Oct 22, 2026</sub>
 - [Day 12: Supervisor multi-agent vs a single agent, calls, tokens and wall time](https://ai-with-spr.vercel.app/blog/day-12-supervisor-vs-single-agent-calls-tokens-wall-time) <sub>· Oct 21, 2026</sub>
-- [DeepSeek DeepInfer, explained: the engine behind its API is now open source](https://ai-with-spr.vercel.app/blog/deepseek-deepinfer-deep-dive) <sub>· Oct 21, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
