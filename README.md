@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
+- [Day 16: 100 malformed tool calls, which retry strategy fixes the most](https://ai-with-spr.vercel.app/blog/day-16-100-malformed-tool-calls-which-retry-strategy-fixes-most) <sub>· Oct 25, 2026</sub>
 - [Kimi K3.1 Pro, explained: strong agent scores, an open-weight label, and weights that have not shipped yet](https://ai-with-spr.vercel.app/blog/kimi-k3-1-pro-deep-dive) <sub>· Oct 25, 2026</sub>
 - [Day 15: Tool calling done right, schemas, validation and retries](https://ai-with-spr.vercel.app/blog/day-15-tool-calling-done-right-schemas-validation-retries) <sub>· Oct 24, 2026</sub>
 - [Day 14: SQL for AI engineers, windows, CTEs and DuckDB on one page](https://ai-with-spr.vercel.app/blog/day-14-sql-for-ai-engineers-windows-ctes-and-duckdb) <sub>· Oct 23, 2026</sub>
 - [LiteLLM 1.107.0, explained: how a leaked token in gateway logs became a poisoned release](https://ai-with-spr.vercel.app/blog/litellm-1-107-0-supply-chain-attack-deep-dive) <sub>· Oct 23, 2026</sub>
-- [Day 13: From hours to under a minute, what a plain-English-to-report pipeline really needs](https://ai-with-spr.vercel.app/blog/day-13-hours-to-under-a-minute-text-to-sql-agent-pipeline) <sub>· Oct 22, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
