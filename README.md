@@ -167,11 +167,11 @@
 **✍️ From the blog** · [ai-with-spr.vercel.app](https://ai-with-spr.vercel.app)
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 16: 100 malformed tool calls, which retry strategy fixes the most](https://ai-with-spr.vercel.app/blog/day-16-100-malformed-tool-calls-which-retry-strategy-fixes-most) <sub>· Oct 25, 2026</sub>
-- [Kimi K3.1 Pro, explained: strong agent scores, an open-weight label, and weights that have not shipped yet](https://ai-with-spr.vercel.app/blog/kimi-k3-1-pro-deep-dive) <sub>· Oct 25, 2026</sub>
-- [Day 15: Tool calling done right, schemas, validation and retries](https://ai-with-spr.vercel.app/blog/day-15-tool-calling-done-right-schemas-validation-retries) <sub>· Oct 24, 2026</sub>
-- [Day 14: SQL for AI engineers, windows, CTEs and DuckDB on one page](https://ai-with-spr.vercel.app/blog/day-14-sql-for-ai-engineers-windows-ctes-and-duckdb) <sub>· Oct 23, 2026</sub>
-- [LiteLLM 1.107.0, explained: how a leaked token in gateway logs became a poisoned release](https://ai-with-spr.vercel.app/blog/litellm-1-107-0-supply-chain-attack-deep-dive) <sub>· Oct 23, 2026</sub>
+- [Day 5: One year as an AI engineer, from intern to production agents](https://ai-with-spr.vercel.app/blog/day-05-one-year-as-an-ai-engineer) <sub>· Oct 14, 2026</sub>
+- [LFM2.5-24B-A2B, explained: a 24B reasoning model with 2B active parameters for on-device agents](https://ai-with-spr.vercel.app/blog/lfm25-24b-a2b-on-device-agents-deep-dive) <sub>· Oct 14, 2026</sub>
+- [ColGrep-Agent-2B, explained: a local model that does your coding agent&#39;s search](https://ai-with-spr.vercel.app/blog/colgrep-agent-2b-local-code-search-deep-dive) <sub>· Oct 13, 2026</sub>
+- [Day 4: Build a ReAct agent from scratch in about 80 lines](https://ai-with-spr.vercel.app/blog/day-04-build-a-react-agent-from-scratch-in-about-80-lines) <sub>· Oct 13, 2026</sub>
+- [Day 3: Workflows vs agents: the 5 patterns that matter](https://ai-with-spr.vercel.app/blog/day-03-workflows-vs-agents-5-patterns) <sub>· Oct 12, 2026</sub>
 
 <!-- BLOG-POST-LIST:END -->
 
